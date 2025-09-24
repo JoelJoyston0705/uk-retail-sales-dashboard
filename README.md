@@ -25,5 +25,11 @@ Analyze UK retail sales data to understand regional performance, trends, and cus
 - Top categories & products
 - Seasonal insights
 
+  
+## ✨ Future Work
+- Add forecasting models
+- Build a web dashboard
+
+
 
 
