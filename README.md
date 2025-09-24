@@ -1,4 +1,4 @@
-# uk-retail-sales-dashboard
+# UK-retail-sales-dashboard
 UK Retail Sales Insights Dashboard using Python, Power BI, and EDA
 # UK Retail Sales Insights Dashboard
 
